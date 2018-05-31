@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "242228517887",
+    "firebase_url": "https://notificationdemo-4d7cc.firebaseio.com",
+    "project_id": "notificationdemo-4d7cc",
+    "storage_bucket": "notificationdemo-4d7cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242228517887:android:53afc9736e84527f",
+        "android_client_info": {
+          "package_name": "com.example.abc.notificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242228517887-mcq1poecp1ajvtadqn8f4orn8ab0ok06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abc.notificationdemo",
+            "certificate_hash": "fd4a14e77f5b008916a8939f4ec3d61258833133"
+          }
+        },
+        {
+          "client_id": "242228517887-fhqfnfbbdoa2b609rvhkejfuled8s8mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvqhebUBm-_jaf4mzdACCV7nW5DD-juo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242228517887-fhqfnfbbdoa2b609rvhkejfuled8s8mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242228517887:android:fe33f1ec5ed8c86f",
+        "android_client_info": {
+          "package_name": "com.example.ti21.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242228517887-871ek8a5sc731eq9458fhmdtbf96l3uj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ti21.firebasechatapp",
+            "certificate_hash": "c000c898ffafb0e2725ba794c1b2df3eeb8fc68e"
+          }
+        },
+        {
+          "client_id": "242228517887-fhqfnfbbdoa2b609rvhkejfuled8s8mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvqhebUBm-_jaf4mzdACCV7nW5DD-juo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242228517887-fhqfnfbbdoa2b609rvhkejfuled8s8mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242228517887:android:0419407210a1cdaa",
+        "android_client_info": {
+          "package_name": "com.example.ti21.firebasechatapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242228517887-bnknegjee7mcpijubanumq5bgutp6h4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ti21.firebasechatapp2",
+            "certificate_hash": "c000c898ffafb0e2725ba794c1b2df3eeb8fc68e"
+          }
+        },
+        {
+          "client_id": "242228517887-fhqfnfbbdoa2b609rvhkejfuled8s8mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvqhebUBm-_jaf4mzdACCV7nW5DD-juo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242228517887-fhqfnfbbdoa2b609rvhkejfuled8s8mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
